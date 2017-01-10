@@ -1,5 +1,5 @@
-def 
-month = 1
+def  month(number)
+
 
 case number
 when 1 
@@ -26,7 +26,7 @@ when 11
   puts "November"
 when 12 
   puts "December"
-
-
-
 end
+end
+
+puts month (1)
