@@ -2,4 +2,4 @@ def length_of_text(words)
 return "words".length
 
 end
-puts words = ("Hi im jodie".length)
+puts words = ("Greetings!".length)
